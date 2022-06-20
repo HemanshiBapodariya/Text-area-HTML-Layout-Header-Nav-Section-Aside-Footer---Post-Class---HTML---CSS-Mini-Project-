@@ -2,14 +2,14 @@
 
 #### By hemanshi bapodariya
 
-#### This Webpage is showing acma photography
+#### This Webpage is about photography
 
 ## Technologies Used
     
 
-* HTML
-* CSS
-* CSS (media queries)
+* HTML (Hyper Text Markup Language)
+* CSS (Cascading Style Sheets)
+* CSS (Cascading Style Sheets of media queries)
 
 ## Description
 A good photography website is a showcase for photos. Take inspiration from real-world photo galleries— your website should be uncluttered and have plenty of whitespace to frame your photos.
